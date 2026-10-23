@@ -1,0 +1,6 @@
+{
+  "name": "Nexus CRM - AI-Native Marketing & ABM Platform",
+  "description": "An AI-native CRM and ABM execution workspace tailored for enterprise marketing and forward-deployed teams, featuring autonomous lead scoring and intelligent copilots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
